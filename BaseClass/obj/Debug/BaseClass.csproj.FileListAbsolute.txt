@@ -1,0 +1,6 @@
+C:\Develop\DOTNET\Learning\BaseClass\BaseClass\bin\Debug\BaseClass.exe.config
+C:\Develop\DOTNET\Learning\BaseClass\BaseClass\bin\Debug\BaseClass.exe
+C:\Develop\DOTNET\Learning\BaseClass\BaseClass\bin\Debug\BaseClass.pdb
+C:\Develop\DOTNET\Learning\BaseClass\BaseClass\obj\Debug\BaseClass.csprojResolveAssemblyReference.cache
+C:\Develop\DOTNET\Learning\BaseClass\BaseClass\obj\Debug\BaseClass.exe
+C:\Develop\DOTNET\Learning\BaseClass\BaseClass\obj\Debug\BaseClass.pdb
